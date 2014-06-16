@@ -1,0 +1,38 @@
+{
+    "appList": [
+        {
+            "apks": [
+                {
+                    "size": "23.71M",
+                    "versionCode": 132
+                }
+            ],
+            "description": "<em>QQ</em>手机版，致力于更完美的移动社交、娱乐与生活体验——乐在沟通15年，聊天欢乐8亿人！ 【主要功能】- 乐在沟通：语音通话，视频聊天，图片分享，趣味表情- 多人聊天：免费建讨论组、200人<em>QQ</em>群- 实用贴心：手机、电脑文件互传，查看关联<em>QQ</em>号消息，通讯录备份，位置分享- 个性主张：丰富主题，多彩气泡，自定义聊天背景，自定义资料卡背景【意见反馈】 - 帮助与反馈：进入<em>QQ</em>设置 -&gt; 关于<em>QQ</em>...",
+            "icons": {
+                "px68": "http://img.wdjimg.com/mms/icon/v1/2/fd/453c5c37cc3d366d32ecee33e1247fd2_68_68.png"
+            },
+            "packageName": "com.tencent.mobileqq",
+            "snippet": "QQ手机版，致力于更完美的移动社交、娱乐与生活体验——乐在沟通15年，聊天欢乐8亿人！",
+            "title": "<em>QQ</em>" 名称
+        },
+        {
+            "apks": [
+                {
+                    "size": "17.02M",
+                    "versionCode": 68
+                }
+            ],
+            "description": "<em>QQ</em>空间手机版，打造属于自己的个性空间，轻松书写图文说说和日志；照片即拍即传，快乐共享，随时“签到”，分享位置信息；多种皮肤自主选择，更有“玩吧”汇聚众多热门游戏，满足各种娱乐需求。<em>QQ</em>空间，分享生活，留住感动。",
+            "icons": {
+                "px68": "http://img.wdjimg.com/mms/icon/v1/2/a2/1e4c0b7cac55f694e716f3b26784aa22_68_68.png"
+            },
+            "packageName": "com.qzone",
+            "snippet": "QQ空间手机版，打造属于自己的个性空间，轻松书写图文说说和日志；<br />照片即拍即传，快乐共享，随时“签到”，分享位置信息；<br />多种皮肤自主选择，更有“玩吧”汇聚众多热门游戏，满足各种娱乐需求。；",
+            "title": "<em>QQ</em>空间"
+        }
+    ],
+    "correctQuery": "",
+    "query": "qq",
+    "relatedQuery": [],
+    "total": 1180
+} 

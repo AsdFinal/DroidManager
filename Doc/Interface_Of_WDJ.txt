@@ -1,0 +1,3 @@
+豌豆荚应用搜索接口：http://apps.wandoujia.com/api/v1/search/{搜索字段}?max={最大返回数量}&hasAd={有无广告}&start={从何处开始}&opt_fields={此段为返回类型}description,tags.*,likesCount,reason,ad,title,packageName,apks.size,icons.px68,apks.superior,installedCountStr,snippet,apks.versionCode
+测试URL：http://apps.wandoujia.com/api/v1/search/qq?max=2&hasAd=0&start=0&opt_fields=description,title,packageName,apks.size,icons.px68,apks.superior,snippet,apks.versionCode,reason
+程序中目前使用的返回类型字段：description,title,packageName,apks.size,icons.px68,apks.superior,snippet,apks.versionCode
