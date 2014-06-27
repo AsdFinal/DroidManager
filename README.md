@@ -2,9 +2,9 @@ DroidManager
 ============
 
 Manage your Android devices on Linux Desktop.Wrriten by Asd@Lazarus(Pascal).
-
+(Rewriting this by Qt&Cpp)
 #############################################################################
-DroidManager.用于Linux环境下的Android手机管理软件，使用豌豆荚作为app来源，编写开始于2014年6月16日。
+DroidManager.用于Linux环境下的Android手机管理软件，使用豌豆荚作为app来源，编写开始于2014年6月16日。(正在使用qt重写)
 
 
 这是一个未完成的版本;
